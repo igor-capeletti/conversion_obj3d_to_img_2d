@@ -7,8 +7,8 @@ g++ -o exec cria_imagens_3D_POO.cpp -std=c++11      #compilacao do codigo em C++
 
 #------------------- variaveis para escolha personalizada -------------------
 #objetos 3D para escolha ---
-arq_origem="cara.obj"
-#arq_origem="weird.obj"
+#arq_origem="cara.obj"
+arq_origem="weird.obj"
 
 #arquivos que serao gerados pela execucao ---
 arq_buffer="buffer.obj"
